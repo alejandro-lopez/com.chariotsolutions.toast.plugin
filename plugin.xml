@@ -12,7 +12,7 @@
     -->
 
     <name>Toasty</name>
-    <description></description>
+    <description>Toast plugin</description>
 
     <js-module src="www/phonegap-toast.js" name="Toasty">
         <clobbers target="toast" />
